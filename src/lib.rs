@@ -1,7 +1,6 @@
-pub const CRATE_BLACKLIST: [&'static str; 13] = [
+pub const CRATE_BLACKLIST: [&'static str; 12] = [
     "libc",
     "typenum",
-    "alloc",
     "idna",
     "openssl",
     "unicode_normalization",
