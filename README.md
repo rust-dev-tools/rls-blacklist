@@ -1,4 +1,5 @@
 # rls-blacklist
+**NOTE:** Development has been moved to the central [RLS](https://github.com/rust-lang/rls) repository.
 
 Some crates produce large amounts of analysis data, to the point of slowing
 down or crashing the RLS. This crate contains a list of crates to exclude from
